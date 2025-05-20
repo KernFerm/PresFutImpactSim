@@ -20,6 +20,8 @@ This repository contains a **Python simulation model** that forecasts political,
 
 ---
 
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 ### 🐍 Python Versions
 
 To run the simulation, you'll need Python installed. Choose one of the following versions:
